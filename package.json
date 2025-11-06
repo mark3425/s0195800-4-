@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+   "homepage": "https://marks425.github.io/s0195800-4-",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,13 +10,6 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  {
-  "name": "my-react-app",
-  "homepage": "https://marks425.github.io/s0195800-4-",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  }
 },
   "dependencies": {
     "@ant-design/icons": "^6.1.0",
